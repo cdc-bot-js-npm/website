@@ -1,3 +1,5 @@
-# cdc-bots.js-website
+# cdc-bot.js-website
 
-A website for the cdc-bots.js Framework
+The website of the cdc-bot.js npm package.
+
+Check out our [Documentation](https://cdc-bot.dutchman-dev.com) and join our [Discord Server](https://discord.com/invite/HmtpbraCnk).
