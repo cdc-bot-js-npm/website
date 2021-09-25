@@ -130,7 +130,7 @@ input[type="checkbox"]{
 
 .footer {
   position: absolute;
-  top: 1520px;
+  top: auto;
   text-align: center;
   width: 100%;
   height: auto;
