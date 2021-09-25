@@ -116,7 +116,7 @@ input[type="checkbox"]{
   position: absolute;
   top: 780px;
   text-align: center;
-  width: 100px;
+  width: 100%;
   height: auto;
   background: black;
   color: white;
