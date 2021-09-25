@@ -116,7 +116,7 @@ input[type="checkbox"]{
 
 .content {
   position: absolute;
-  top: auto;
+  top: 600px;
   text-align: center;
   width: 100%;
   height: auto;
@@ -130,7 +130,7 @@ input[type="checkbox"]{
 
 .footer {
   position: absolute;
-  top: auto;
+  top: 1000px;
   text-align: center;
   width: 100%;
   height: auto;
