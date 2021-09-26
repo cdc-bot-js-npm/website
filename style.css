@@ -113,6 +113,47 @@ input[type="checkbox"]{
   font-weight: 700;
 }
 
+.startedButton {
+position: relative;
+right: 55px;
+text-align: center;
+cursor: pointer;
+font-size:22px;
+margin: 0 0 0 100px;
+border-radius: 4px;
+background-color:#ff5757;
+border: none;
+padding: 7px;
+width: 200px;
+height: 50px;
+transition: all 0.5s;
+}
+
+.startedButton span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.startedButton span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.startedButton:hover span {
+  padding-right: 25px;
+}
+
+.startedButton:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
 .content {
   position: absolute;
   top: 800px;
